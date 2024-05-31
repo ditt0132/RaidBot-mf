@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 const viewer = require('prismarine-viewer').mineflayer
 const readline = require('readline')
 const Socks = require('socks5-client')
-const fs = require('node:fs'
+const fs = require('node:fs')
 
 let bots = []
 
